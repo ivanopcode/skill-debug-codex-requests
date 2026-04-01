@@ -1,0 +1,4 @@
+interface:
+  display_name: "Debug Codex Requests"
+  short_description: "Proxy and inspect Codex API requests"
+  default_prompt: "Use $debug-codex-requests to run a proxied Codex session, capture the outgoing request metadata, and summarize the log."
